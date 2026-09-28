@@ -1,4 +1,4 @@
-# 💰 Expense Tracker
+# Expense Tracker
 
 A simple and beginner‑friendly **Expense Tracker** built with **HTML, CSS, and JavaScript**.  
 This project helps you manage your income and expenses, track your balance, and filter transactions by type or category.  
@@ -6,7 +6,7 @@ All data is stored in **localStorage**, so your records persist even after refre
 
 ---
 
-## 🚀 Features
+## Features
 - Add transactions with:
   - Type (Income / Expense)
   - Amount
@@ -22,15 +22,6 @@ All data is stored in **localStorage**, so your records persist even after refre
   - By category keyword
 - Delete transactions
 - Data persistence using **localStorage**
-
----
-
-## 📂 Project Structure
-expense-tracker/
-│
-├── index.html      # Main HTML file
-├── style.css       # Stylesheet
-└── script.js       # JavaScript logic
 
 ---
 
