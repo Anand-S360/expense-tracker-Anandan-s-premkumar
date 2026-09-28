@@ -51,8 +51,3 @@ All data is stored in **localStorage**, so your records persist even after refre
 5. **Data Persistence**
    - All transactions are saved in your browser’s **localStorage**.
    - Your data remains even after refreshing or reopening the page.
-
-## 🛠️ Setup & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
